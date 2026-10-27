@@ -3,7 +3,7 @@ This is a short code I wrote based off a puzzle in the late-game sections of Blu
 
 If you aren't yet familiar with this concept and want to discover it in the game, don't read any further.
 
-<details>
+<details> <summary> SPOILERS for late-game Blue Prince puzzles </summary>
   In the video game Blue Prince, a concept known as "Numeric Cores" is introduced for some of the late-game puzzles. The idea is this:
 
   Take a number that is at least 4 digits long, and break it into 4 sections. If the number is 1234, the sections would be 1, 2, 3, and 4. If the number is 12345, the sections could potentially be 12, 3, 4, 5, or 1, 2, 34, 5, etc. The number of characters in the section is not restricted, but the order of the sections must stay the same. If the number is 1234, the order cannot be 4, 1, 3, 2.
