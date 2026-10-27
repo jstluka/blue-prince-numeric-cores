@@ -4,7 +4,7 @@ library(tidyverse)
 
 # Create list of all 4-letter English words
 {
-  dictionary <- read.csv("/Users/jimmystluka/Downloads/Coding Projects/Scrabble_TWL06.csv")
+  dictionary <- read_csv("data/Scrabble_TWL06.csv")
   
   # Calculate word length
   {
